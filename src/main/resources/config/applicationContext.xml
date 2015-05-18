@@ -17,7 +17,7 @@
 	
 	
 	<!-- 使用annotation 自动注册bean, 并保证@Required、@Autowired的属性被注入 -->
-	<context:component-scan base-package="com.goweb.disease">
+	<context:component-scan base-package="com.goweb">
 	</context:component-scan>
 	
 	<!-- 配置数据源 -->
@@ -30,7 +30,7 @@
 	</bean>
 	
 	<!-- 应用配置 -->
-	<bean name="applicationConfig" class="com.goweb.disease.ApplicationConfig">
+	<bean name="applicationConfig" class="com.goweb.ApplicationConfig">
 		<property name="lastestDataInterval">
 			<value>${applicationConfig.lastestDataInterval}</value>
 		</property>

@@ -17,11 +17,11 @@
 		ignore-resource-not-found="true" location="classpath*:config/application.properties" />
 	
 	
-	<bean name="logMonitor02" class="com.goweb.disease.task.LogMonitor">
+	<bean name="logMonitor02" class="com.goweb.task.LogMonitor">
 		<property name="ftpClient" ref="ftpClient02" />
 	</bean>
 	
-	<bean name="ftpClient02" class="com.goweb.disease.FtpClient">
+	<bean name="ftpClient02" class="com.goweb.FtpClient">
 		<property name="ip">
 			<value>${applicationConfig.ftpclient02.ip}</value>
 		</property>
@@ -67,12 +67,12 @@
 		</property>
 	</bean>
 	
-	<bean name="logMonitor01" class="com.goweb.disease.task.LogMonitor">
+	<bean name="logMonitor01" class="com.goweb.task.LogMonitor">
 		<property name="ftpClient" ref="ftpClient01" />
 	</bean>
 	
 
-	<bean name="ftpClient01" class="com.goweb.disease.FtpClient">
+	<bean name="ftpClient01" class="com.goweb.FtpClient">
 		<property name="ip">
 			<value>${applicationConfig.ftpclient01.ip}</value>
 		</property>

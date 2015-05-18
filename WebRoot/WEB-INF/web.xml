@@ -48,7 +48,7 @@
 	</filter-mapping>
 	<filter>
 		<filter-name>crossAreaFilter</filter-name>
-		<filter-class>com.goweb.disease.filter.CrossAreaFilter</filter-class>
+		<filter-class>com.goweb.filter.CrossAreaFilter</filter-class>
 	</filter>
 	<filter-mapping>
 		<filter-name>crossAreaFilter</filter-name>
