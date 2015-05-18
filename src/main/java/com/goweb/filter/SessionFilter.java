@@ -11,7 +11,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class CrossAreaFilter implements Filter {
+public class SessionFilter implements Filter {
 
 	@Override
 	public void destroy() {
@@ -20,12 +20,13 @@ public class CrossAreaFilter implements Filter {
 	}
 
 	@Override
-	public void doFilter(ServletRequest request, ServletResponse response,
-			FilterChain filter) throws IOException, ServletException {
+	public void doFilter(ServletRequest request, ServletResponse response, FilterChain filter) throws IOException,
+			ServletException {
 		HttpServletRequest httpRequest = (HttpServletRequest) request;
 		HttpServletResponse httpResponse = (HttpServletResponse) response;
-		// 登陆session缓存在guava缓存中,不在数据库中存储.session应还包括权限信息
-		// 如果没有缓存,则返回错误信息即可,跳转逻辑由前端决定
+		httpResponse.setHeader("Access-Control-Allow-Origin", "*");
+		httpResponse.setHeader("Access-Control-Allow-Methods","*");
+		httpResponse.setHeader("Access-Control-Allow-Headers","*");
 		filter.doFilter(httpRequest, httpResponse);
 	}
 
