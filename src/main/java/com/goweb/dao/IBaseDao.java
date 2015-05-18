@@ -10,7 +10,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
  * 
  * Dao层基类接口
  * 
- * @author yinsheng
+ * 
  *
  * @param <T>
  * @param <ID>

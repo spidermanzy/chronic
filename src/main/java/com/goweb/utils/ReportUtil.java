@@ -30,7 +30,7 @@ import com.goweb.web.vo.StaticsReportVo;
  * 
  * 报表工具类
  * 
- * @author yinsheng
+ * 
  * 
  */
 public class ReportUtil {

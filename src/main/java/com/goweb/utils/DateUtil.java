@@ -14,7 +14,7 @@ import com.goweb.exception.BaseException;
  * 
  * 时间工具类
  * 
- * @author yinsheng
+ * 
  * 
  */
 public class DateUtil {

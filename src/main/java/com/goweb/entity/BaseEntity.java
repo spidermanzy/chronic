@@ -6,7 +6,7 @@ import java.util.Date;
  * 
  * 实体基类
  * 
- * @author yinsheng
+ * 
  *
  */
 

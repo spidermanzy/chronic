@@ -6,7 +6,7 @@ import java.util.Date;
  * 
  * 监控数据
  * 
- * @author yinsheng
+ * 
  *	
  */
 public class RealTimeDataVo {

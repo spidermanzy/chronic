@@ -10,7 +10,7 @@ import com.goweb.exception.ServiceException;
 /**
  * 异常的工具类.
  * 
- * @author yinsheng
+ * 
  * 
  */
 public class ExceptionUtil {

@@ -16,7 +16,7 @@ import com.goweb.service.IMessageService;
  * 
  * 日志监听
  * 
- * @author yinsheng
+ * 
  *
  */
 @Component("logMonitor")

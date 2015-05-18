@@ -16,7 +16,7 @@ import com.goweb.service.ILogService;
  * 
  * 日志服务类
  * 
- * @author yinsheng
+ * 
  *
  */
 

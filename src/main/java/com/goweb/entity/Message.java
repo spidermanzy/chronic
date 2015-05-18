@@ -6,7 +6,7 @@ import java.util.Date;
  * 
  * 日志消息
  * 
- * @author yinsheng
+ * 
  *
  */
 

@@ -17,7 +17,7 @@ import com.goweb.web.vo.RealTimeDataVo;
 /**
  * 
  * 监控
- * @author yinsheng
+ * 
  *
  */
 @Component

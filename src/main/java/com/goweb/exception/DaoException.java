@@ -3,7 +3,7 @@ package com.goweb.exception;
 /**
  * Dao 异常类
  * 
- * @author yinsheng
+ * 
  * 
  */
 public class DaoException extends BaseException {

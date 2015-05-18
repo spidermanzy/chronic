@@ -7,7 +7,7 @@ import java.util.List;
  * 
  * Service层基类接口
  * 
- * @author yinsheng
+ * 
  *
  * @param <T>
  * @param <ID>

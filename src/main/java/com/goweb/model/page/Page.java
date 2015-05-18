@@ -7,7 +7,7 @@ import java.util.List;
  * 
  * 页
  * 
- * @author yinsheng
+ * 
  *	
  */
 public class Page<T> {

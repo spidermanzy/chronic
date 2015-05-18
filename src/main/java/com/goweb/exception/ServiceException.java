@@ -4,7 +4,7 @@ package com.goweb.exception;
  * 
  * Service 异常类
  * 
- * @author yinsheng
+ * 
  * 
  */
 public class ServiceException extends BaseException {

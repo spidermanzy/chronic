@@ -8,7 +8,7 @@ import java.util.List;
  * 
  * 实时监听VO
  * 
- * @author yinsheng
+ * 
  *	
  */
 public class RealTimeVo {

@@ -15,7 +15,7 @@ import com.goweb.service.IBaseService;
  * 
  * Service基类
  * 
- * @author yinsheng
+ * 
  *	
  */
 @Transactional

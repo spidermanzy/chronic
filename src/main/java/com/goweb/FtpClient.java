@@ -27,7 +27,7 @@ import com.goweb.utils.DateUtil;
  * 
  * FTP客户端
  * 
- * @author yinsheng
+ * 
  *
  */
 public class FtpClient {

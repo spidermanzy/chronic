@@ -25,7 +25,7 @@ import com.goweb.web.vo.RealTimeVo;
 /**
  * 登陆Controller
  * 
- * @author yinsheng
+ * 
  */
 @Controller
 @RequestMapping(value = "/realtime")

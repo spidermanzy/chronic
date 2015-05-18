@@ -10,7 +10,7 @@ import com.goweb.web.vo.StaticsReportVo;
  * 
  * 日志消息接口
  * 
- * @author yinsheng
+ * 
  *
  */
 public interface IMessageDao extends IBaseDao{

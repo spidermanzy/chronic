@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 应用配置
- * @author yinsheng
+ * 
  *
  */
 public class ApplicationConfig {

@@ -23,7 +23,7 @@ import com.goweb.utils.ReportUtil;
 /**
  * 登陆Controller
  * 
- * @author yinsheng
+ * 
  */
 @Controller
 @RequestMapping(value = "/report")

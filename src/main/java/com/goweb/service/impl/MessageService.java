@@ -23,7 +23,7 @@ import com.goweb.web.vo.StaticsReportVo;
  * 
  * 日志消息服务类
  * 
- * @author yinsheng
+ * 
  *
  */
 

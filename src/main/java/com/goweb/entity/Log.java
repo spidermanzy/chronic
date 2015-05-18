@@ -4,7 +4,7 @@ package com.goweb.entity;
  * 
  * 日志
  * 
- * @author yinsheng
+ * 
  *
  */
 

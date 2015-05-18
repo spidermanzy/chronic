@@ -28,7 +28,7 @@ import com.goweb.web.vo.StaticsReportVo;
  * 
  * 日志消息Dao
  * 
- * @author yinsheng
+ * 
  *
  */
 

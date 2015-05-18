@@ -7,7 +7,7 @@ import java.util.Map;
  * 
  * 分页参数
  * 
- * @author yinsheng
+ * 
  *	
  */
 public class PageParemeter{

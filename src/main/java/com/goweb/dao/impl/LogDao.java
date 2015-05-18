@@ -25,7 +25,7 @@ import com.goweb.entity.Log;
  * 
  * 日志消息Dao
  * 
- * @author yinsheng
+ * 
  *
  */
 

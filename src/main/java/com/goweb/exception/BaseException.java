@@ -3,7 +3,7 @@ package com.goweb.exception;
 /**
  * 基本异常
  * 
- * @author yinsheng
+ * 
  * 
  */
 public class BaseException extends RuntimeException {

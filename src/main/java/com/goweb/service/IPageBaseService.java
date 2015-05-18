@@ -9,7 +9,7 @@ import com.goweb.model.page.PageParemeter;
  * 
  * Service层分页基类接口
  * 
- * @author yinsheng
+ * 
  *
  * @param <T>
  * @param <ID>

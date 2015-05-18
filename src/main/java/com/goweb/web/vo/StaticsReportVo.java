@@ -6,7 +6,7 @@ import java.util.Date;
  * 
  * 报表统计信息VO
  * 
- * @author yinsheng
+ * 
  *	
  */
 public class StaticsReportVo {

@@ -7,7 +7,7 @@ import com.goweb.entity.Message;
  * 
  * 日志服务接口类
  * 
- * @author yinsheng
+ * 
  *
  */
 
